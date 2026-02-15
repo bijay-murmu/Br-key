@@ -3,7 +3,7 @@
         "device_id": "6e483895fb679433",
         "key": "BM-10D",
         "expirydate": "23-02-2026",
-        "Allowoffline": true
+        "Allowoffline": false 
     },
     {
         "device_id": "device456",
